@@ -4,7 +4,7 @@ locale["WAC.notice.ban.temporary.indefinite"] = {
 	"en": "This character has been banned for an indefinite period of time. Ban reason: {0}",
 	"fr": "Ce personnage a été banni pour une durée indéterminée. Raison du ban: {0}",
 	"es": "",
-	"zh-cn": "",
+	"zh-cn": "这个角色被无限期禁止。禁止原因：{0}",
 	"zh-tw":"",
 	"kr": "",
 	"ru": "",
